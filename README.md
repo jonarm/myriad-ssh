@@ -29,4 +29,4 @@ Python script that connects to multiple servers via ssh to execute commands and 
   Total number of servers: 5
   Progress: 80%............Done
   ```
-  Output file: myriad-ssh-log.csv
+  Output file: **myriad-ssh-log.csv**
