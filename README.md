@@ -6,13 +6,13 @@ Python script that connects to multiple servers via ssh to execute commands and 
 
 ## Usage ##
 ```
-/myriad-ssh.py
+./myriad-ssh.py
 ```
 
 ## Example ##
 1. Run the script
   ```
-  /myriad-ssh.py
+  ./myriad-ssh.py
   ```
 
 2. Enter the necessary details
