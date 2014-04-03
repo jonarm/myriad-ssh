@@ -1,4 +1,4 @@
-Copyright (c) 2014, <jonarmarzan@gmail.com>
+Copyright (c) 2014, Jonar Marzan <jonarmarzan@gmail.com>
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, 
