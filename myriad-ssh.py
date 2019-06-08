@@ -2,7 +2,7 @@
 
 # myriad-ssh connects to different servers based on the list given
 # and dumps an output based on the executed remote commands.
-# Copyright: (c) 2014 Jonar Marzan.
+# Copyright: (c) 2014 Jonar M.
 # License: BSD, see LICENSE for more details.
 
 
